@@ -1,4 +1,6 @@
 # Attendance-system-using-Facial-Recognition
+![Face-Recognition-in-Python](https://user-images.githubusercontent.com/83969166/211626687-0ea2af05-68c6-46a8-914d-18bcbe9c28e6.jpg)
+
 # Installing libraries
 open cv
 ```python
