@@ -1,7 +1,14 @@
 # Attendance-system-using-Facial-Recognition
 ![Face-Recognition-in-Python](https://user-images.githubusercontent.com/83969166/211626687-0ea2af05-68c6-46a8-914d-18bcbe9c28e6.jpg)
 
+# Real Time
+![face recog](https://user-images.githubusercontent.com/83969166/216376815-1affa31b-78a8-41b4-99fe-7a27aa1a5c9d.jpg)
+
 # Installing libraries
+All Libraries at once
+```command line
+pip install -r path/to/requirement.txt
+```
 open cv
 ```python
 pip install opencv-python
